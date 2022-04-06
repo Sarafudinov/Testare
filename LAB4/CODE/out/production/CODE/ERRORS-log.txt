@@ -1,0 +1,12 @@
+07/04/2022 00:31:57 | ERROR For input string: "fd" | Error Enter Im 2 | Error String 1 |
+07/04/2022 00:31:57 | ERROR For input string: "asd" | Error Enter Im 4 | Error String 1 | 
+07/04/2022 00:31:57 | ERROR in 2 line The entered value is out of bounds (input element 6)
+07/04/2022 00:31:57 | ERROR in 4 line The entered value is out of bounds (input element 16)
+07/04/2022 00:31:57 | ERROR For input string: "asd" | Error Enter Re 35 | Error String 9 | 
+07/04/2022 00:31:57 | ERROR in 9 line The entered value is out of bounds (input element 34)
+07/04/2022 00:44:39 | ERROR For input string: "fd" | Error Enter Im 2 | Error String 1 | 
+07/04/2022 00:44:39 | ERROR For input string: "asd" | Error Enter Im 4 | Error String 1 | 
+07/04/2022 00:44:39 | ERROR in 2 line The entered value is out of bounds (input element 6)
+07/04/2022 00:44:39 | ERROR in 4 line The entered value is out of bounds (input element 16)
+07/04/2022 00:44:39 | ERROR For input string: "asd" | Error Enter Re 35 | Error String 9 | 
+07/04/2022 00:44:39 | ERROR in 9 line The entered value is out of bounds (input element 34)
